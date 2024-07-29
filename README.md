@@ -1,2 +1,2 @@
 # Button-Practice
-Button Practice (Basic) - HTML
+Button Practice (Basic) - HTML / CSS
